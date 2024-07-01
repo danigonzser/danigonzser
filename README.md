@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheDani1
+- 👋 Hi, I’m @danigonzser
 - 👀 I’m interested in programming, english, music and web.
 - 🌱 I’m currently learning C++, php, SQL, React, Kotlin, Firebase, CSS, html....
 - 💞️ I’m looking to collaborate on a big enterprise.
